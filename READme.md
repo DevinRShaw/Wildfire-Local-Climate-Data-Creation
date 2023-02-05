@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The California Fire Science Consortium established fire regions across the state of California to aid in managing and responding to wildfires. This project aims to gather metadata of weather stations within these established fire regions in order to provide relevant weather information during a wildfire event.
+The California Fire Science Consortium established fire regions across the state of California to aid in managing and responding to wildfires. This project aims to use metadata of weather stations within these established fire regions in order to provide relevant weather information during a wildfire event.
 
 ## Data Source
 
@@ -27,10 +27,12 @@ The steps involved in the data processing are as follows:
 6. The function `region_station_list` takes a fire region and returns a list of weather stations and their coordinates within that region.
 7. The function `closest_to_fire_center` takes a list of weather stations and a fire location and returns a list of the closest weather stations to the fire center.
 
+- All of these combine to ultimately be used towards adding to initial dataset
+
 ## Data Output
 
-The data output from this project is a list of weather stations and their coordinates within each established fire region.
+The data output from this project adds the climate data acquired in the form of columns representing different variables for each fire in the dataset.
 
 ## Conclusion
 
-This project provides a useful tool for responding to wildfires by providing relevant weather information from weather stations within established fire regions.
+This project provides a useful tool for analyzing wildfire risk factors by providing relevant weather information from weather stations within established fire regions.
