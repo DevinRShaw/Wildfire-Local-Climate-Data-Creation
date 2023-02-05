@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The California Fire Science Consortium established fire regions across the state of California to aid in managing and responding to wildfires. This project aims to use metadata of weather stations within these established fire regions in order to provide relevant weather information during a wildfire event.
+The California Fire Science Consortium established fire regions across the state of California to aid in managing and responding to wildfires. This project aims to use metadata of weather stations within these established fire regions in order to provide relevant weather information during a wildfire event. Code in this project was used in a larger project for the National Science Foundation, where machine learning models were used on the created dataset to identify potential risk factors that are currently ignored by regulatory bodies.  
 
 ## Data Source
 
