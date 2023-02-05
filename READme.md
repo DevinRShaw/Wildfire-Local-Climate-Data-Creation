@@ -31,7 +31,7 @@ The steps involved in the data processing are as follows:
 
 ## Data Output
 
-The data output from this project adds the climate data acquired in the form of columns representing different variables for each fire in the dataset.
+The data output from this project adds the climate data acquired in the form of columns representing different variables for each row representing a fire in the dataset.
 
 ## Conclusion
 
