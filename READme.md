@@ -35,4 +35,4 @@ The data output from this project adds the climate data acquired in the form of 
 
 ## Conclusion
 
-This project provides a useful tool for analyzing wildfire risk factors by providing relevant information from weather stations within established fire regions. This project motivated the creation of a future project, showcased on this github as simple_noaa. 
+This project provided a useful tool for analyzing wildfire risk factors by providing relevant information from weather stations within established fire regions. This project motivated the creation of a future project that packaged the methodologies used, showcased on this github as simple_noaa. 
