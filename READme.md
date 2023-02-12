@@ -1,4 +1,4 @@
-# Fire Region Data Creation Project
+# Wildfire Local Climate Data Creation Project
 
 ## Introduction
 
